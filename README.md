@@ -122,38 +122,17 @@ I enjoy transforming ideas into real-world products and continuously improving m
 
 <br/>
 
-## 🌾 KisanSetu
 
-A digital platform connecting **farmers and buyers** through a modern marketplace experience.
 
-### ✨ Features
-
-- 🛒 Farmer & Buyer Marketplace
-- 🌱 Produce Selling
-- 📦 Product & Cart System
-- 🌦️ Weather Information
-- 📈 Mandi Price Information
-- 📱 Responsive Interface
-
-**Tech:** `React.js` `JavaScript` `Tailwind CSS` `REST APIs`
-
----
-
-## 🍔 HungryHub
+## 🍔 swiggy
 
 A modern food discovery and ordering web application focused on a smooth and interactive user experience.
 
-**Tech:** `React.js` `JavaScript` `CSS`
+**Tech:** `React.js` `JavaScript` `tailwind-CSS` `redux` 
 
 ---
 
-## 📊 AlgoVision
 
-An interactive web project designed to make technical concepts easier to understand through visual interaction.
-
-**Tech:** `React.js` `JavaScript` `Tailwind CSS`
-
----
 
 # 📊 GitHub Analytics
 
