@@ -2,7 +2,7 @@
 
 <!-- ========================= HEADER ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:1d4ed8,75:0891b2,100:06b6d4&height=260&section=header&text=Shivam%20Pandey&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20BTech%20CSE&descAlignY=58&descSize=20&descColor=bae6fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:1d4ed8,75:0891b2,100:06b6d4&height=260&section=header&text=Shivam%20Pandey&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=BTech%20CSE&descAlignY=58&descSize=20&descColor=bae6fd"/>
 
 <br/>
 
