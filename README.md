@@ -90,7 +90,7 @@ I'm a **BTech Computer Science Engineering student** focused on building modern 
 
 <div align="center">
 
-<br/>
+
 
 <img src="https://raw.githubusercontent.com/shivampandey2006/shivampandey2006/output/github-snake.svg" width="100%" alt="Snake eating my contributions"/>
 
