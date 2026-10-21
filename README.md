@@ -82,7 +82,7 @@ I'm a **BTech Computer Science Engineering student** focused on building modern 
 
 
 
-<br/>
+
 
 <!-- ===================== SNAKE ===================== -->
 
