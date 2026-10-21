@@ -67,30 +67,8 @@ I'm a **BTech Computer Science Engineering student** focused on building modern 
 
 </div>
 
-<br/>
 
-<!-- ===================== CRAFTING TABLE ===================== -->
 
-<img src="assets/t-crafting.svg" width="100%" alt="Crafting Table"/>
-
-<div align="center">
-
-| Ingredient A | ➕ | Ingredient B | ➡️ | Result |
-|:--:|:--:|:--:|:--:|:--|
-| <img src="https://skillicons.dev/icons?i=react" height="36"/> React.js | + | <img src="https://skillicons.dev/icons?i=tailwind" height="36"/> Tailwind CSS | → | ✨ **Beautiful, responsive UI** |
-| <img src="https://skillicons.dev/icons?i=nodejs" height="36"/> Node.js | + | <img src="https://skillicons.dev/icons?i=express" height="36"/> Express.js | → | ⚡ **Fast REST APIs** |
-| <img src="https://skillicons.dev/icons?i=react" height="36"/> React.js | + | <img src="https://skillicons.dev/icons?i=redux" height="36"/> Redux | → | 🧠 **Predictable state** |
-| 🟩 Frontend | + | 🟫 Backend | → | 🌐 **Full-stack web apps** |
-| <img src="https://skillicons.dev/icons?i=git,github" height="36"/> Git + GitHub | + | <img src="https://skillicons.dev/icons?i=vercel" height="36"/> Vercel | → | 🚀 **Smooth shipping** |
-
-</div>
-
-<br/>
-
-<!-- ===================== XP LEVELS ===================== -->
-
-<img src="assets/t-xp.svg" width="100%" alt="XP Levels"/>
-<img src="assets/xp.svg" width="100%" alt="Skill levels"/>
 
 <br/><br/>
 
@@ -101,18 +79,8 @@ I'm a **BTech Computer Science Engineering student** focused on building modern 
 
 <br/><br/>
 
-<!-- ===================== QUEST LOG ===================== -->
 
-<div align="center">
 
-### 🗺️ Quest Log
-
-| ⚔️ Quest | 📜 Description | 🧱 Blocks Used |
-|:--|:--|:--|
-| 🌾 **KisanConnect** | Smart farming web app built for farmers | React, Node.js, Express |
-| 🏗️ **Next Quest** | Loading... new world generating 🌍 | ??? |
-
-</div>
 
 <br/>
 
