@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td align="center" width="170">
-<img src="https://mc-heads.net/body/MHF_Alex/160" height="190" alt="Alex"/>
+<img src="https://i.redd.it/fgzry44ajanb1.png" height="190" alt="Minecraft"/>
 </td>
 <td>
 
