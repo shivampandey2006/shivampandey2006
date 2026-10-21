@@ -70,14 +70,14 @@ I'm a **BTech Computer Science Engineering student** focused on building modern 
 
 
 
-<br/><br/>
+
 
 <!-- ===================== ADVANCEMENTS ===================== -->
 
 <img src="assets/t-adv.svg" width="100%" alt="Advancements"/>
 <img src="assets/advancements.svg" width="100%" alt="Advancements table"/>
 
-<br/><br/>
+
 
 
 
@@ -112,14 +112,6 @@ I'm a **BTech Computer Science Engineering student** focused on building modern 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=shivampandey2006&background=0b1f12&ring=7cbd3b&fire=ff9800&currStreakNum=ffffff&currStreakLabel=7cbd3b&sideNums=ffffff&sideLabels=a36a35&dates=9ca3af&hide_border=true&border_radius=0"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivampandey2006&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivampandey2006&bg_color=0b1f12&color=7cbd3b&line=a36a35&point=ffffff&area=true&area_color=3b7d1e&hide_border=true" width="100%"/>
 
 </div>
 
