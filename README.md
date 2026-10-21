@@ -6,11 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=7CBD3B&center=true&vCenter=true&width=900&height=50&lines=Mining+Bugs+%26+Crafting+Code;React.js+%7C+Node.js+%7C+Express.js;Frontend+%2B+Backend+%3D+Full+Stack+Builder;Survival+Mode%3A+Always+Learning+%26+Building"/>
 
-<br/>
 
-<a href="https://www.linkedin.com/in/shivampandey1818/"><img src="https://img.shields.io/badge/LinkedIn-Shivam%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/shivampandey2006"><img src="https://img.shields.io/badge/GitHub-shivampandey2006-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=shivampandey2006&label=Blocks%20Visited&color=5fa92e&style=for-the-badge"/>
 
 </div>
 
